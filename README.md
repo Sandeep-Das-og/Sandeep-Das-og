@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sandeep-das-og" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-das-og" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sandeepdas612/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep-das-og" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/das2106sandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="das2106sandeep" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sandeep-das-og" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep-das-og" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/maximusiemcal10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="maximusiemcal10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandeep-das-og" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-das-og" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sandeepdas612/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep-das-og" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/das2106sandeep" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="das2106sandeep" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sandeep-das-og" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep-das-og" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/maximusiemcal10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="maximusiemcal10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

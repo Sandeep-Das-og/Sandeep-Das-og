@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/sandeepdas612/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep-das-og" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/das2106sandeep" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="das2106sandeep" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sandeep-das-og" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep-das-og" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/maximusiemcal10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="maximusiemcal10" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/maximusiemcal10/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="maximusiemcal10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

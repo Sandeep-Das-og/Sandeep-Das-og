@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **NodeJS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sandeep-Das-og](https://github.com/Sandeep-Das-og)
+- 👨‍💻 All of my projects are available at [https://github.com/Sandeep-Das-og?tab=repositories](https://github.com/Sandeep-Das-og?tab=repositories)
 
 - 📫 Here's how you can reach out to me **das2106sandeep@gmail.com**
 

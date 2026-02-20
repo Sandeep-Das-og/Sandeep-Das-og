@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sandeep Das</h1>
 <h3 align="center">Building scalable systems as a Java Full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-das-og&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-das-og" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-das-og" alt="sandeep-das-og" /></a> </p>
 
 - 🔭 I’m currently working as a Software engineer @ **Gruve**

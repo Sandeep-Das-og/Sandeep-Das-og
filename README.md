@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-das-og" alt="sandeep-das-og" /></a> </p>
 
-- 🔭 I’m currently working as a Software engineer @ **Xerox Corp**
-
-- 🌱 I’m currently learning **System design, AZ-204**
+- 🔭 I’m currently working as a Software engineer @ **Gruve**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sandeep-Das-og?tab=repositories](https://github.com/Sandeep-Das-og?tab=repositories)
 
-- 📫 Here's how you can reach out to me **das2106sandeep@gmail.com**
+- 📫 Here's how you can reach out to me **das.sandeep.tech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
